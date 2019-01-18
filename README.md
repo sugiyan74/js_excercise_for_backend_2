@@ -27,6 +27,11 @@
         - 利用するAPIのURL :  https://opentdb.com/api.php?amount=10
         - API提供サイト: https://opentdb.com/
         - axiosの使い方は[axiosのGitHubレポジトリ](https://github.com/axios/axios#example)を参照
+    - 発展タスク: `async/await` を使って実装する
+        - 参考:
+            - [JavaScriptのasyncとawaitの概要【Promiseの発展系】](https://tsuyopon.xyz/learning-contents/web-dev/javascript/frontend/overview-of-async-and-await-in-js/)
+            - [【JavaScript】asyncとawaitの使い方【サンプルコード付き】](https://tsuyopon.xyz/learning-contents/web-dev/javascript/frontend/how-to-use-async-and-await-in-js/)
+            - [【JavaScript】async/awaitでの例外処理の方法](https://tsuyopon.xyz/learning-contents/web-dev/javascript/frontend/how-to-handle-exception-in-async-await/)
     - 「axios」を使って習得したクイズデータをconsole.logでターミナルに出力する
 
 
@@ -41,6 +46,6 @@
 
 
 - Web白熱教室
-  - [【Node.JS】package.jsonを作る【npm init】](https://tsuyopon.xyz/learning-contents/web-dev/javascript/backend/how-to-create-a-package-json/)
-  - [【Node.JS】npmを使ってライブラリをインストールする](https://tsuyopon.xyz/learning-contents/web-dev/javascript/backend/how-to-install-libraries-with-npm/)
-  - [【Node.JS】npmでインストールしたライブラリを読み込む](https://tsuyopon.xyz/learning-contents/web-dev/javascript/backend/how-to-load-libraries-in-nodejs/)
+    - [【Node.JS】package.jsonを作る【npm init】](https://tsuyopon.xyz/learning-contents/web-dev/javascript/backend/how-to-create-a-package-json/)
+    - [【Node.JS】npmを使ってライブラリをインストールする](https://tsuyopon.xyz/learning-contents/web-dev/javascript/backend/how-to-install-libraries-with-npm/)
+    - [【Node.JS】npmでインストールしたライブラリを読み込む](https://tsuyopon.xyz/learning-contents/web-dev/javascript/backend/how-to-load-libraries-in-nodejs/)
