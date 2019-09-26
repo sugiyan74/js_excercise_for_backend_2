@@ -1,5 +1,5 @@
 const axios = require('axios').default;
-const APIURL = 'https://opentdb.com/api.php?amount=10';
+const API_URL = 'https://opentdb.com/api.php?amount=10';
 
 (async() => {
     try {
